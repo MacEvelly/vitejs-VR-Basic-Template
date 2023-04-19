@@ -15,7 +15,6 @@ function MainScene() {
         <XR>
           <CameraLeva />
           <GridLeva />
-          <SkyBox3D />
           <ambientLight />
           <Environment preset={'studio'} />
           <Instances>
